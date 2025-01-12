@@ -1,4 +1,4 @@
-# OpenSpec Studio
+![Banner](https://github.com/RDPerera/OpenSpec-Studio/blob/main/resources/banner.png)
 
 **OpenSpec Studio** is a lightweight, frontend-only tool for creating, editing, and previewing OpenAPI specifications. It features an intuitive interface with a code editor, live documentation preview, and local storage for saving your work. Built with React, Material-UI, and Monaco Editor, OpenSpec Studio simplifies API specification workflows without needing a backend.
 
