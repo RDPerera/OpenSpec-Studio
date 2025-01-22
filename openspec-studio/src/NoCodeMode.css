@@ -1,0 +1,21 @@
+.dndnode {
+  padding: 4px;
+}
+
+.dndnode > div {
+  transition: all 0.2s;
+}
+
+.dndnode > div:hover {
+  background: #e0e0e0 !important;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.react-flow__node {
+  cursor: grab;
+}
+
+.react-flow__node:active {
+  cursor: grabbing;
+}
